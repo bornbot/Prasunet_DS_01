@@ -43,3 +43,6 @@ This project involves analyzing population data from multiple datasets and visua
 6. **Top 10 Countries by Population**:
    - Identify the top 10 most populated countries for a specific year.
    - Create a pie chart to show their population distribution.
+
+## License
+This project is Licensed under the MIT License- see the [LICENSE](#license) file for details.
